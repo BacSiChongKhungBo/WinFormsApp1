@@ -9,5 +9,6 @@ namespace WinFormsApp1.DAL
     internal class Class2
     {
         ///hi
+        ///Hi hi cc
     }
 }
