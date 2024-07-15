@@ -21,4 +21,9 @@
     <ProjectReference Include="..\DAL\DAL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DAL\" />
+    <Folder Include="BUS\" />
+  </ItemGroup>
+
 </Project>
